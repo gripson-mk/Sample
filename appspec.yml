@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /src/WebRazorPages/bin/Debug/netcoreapp2.1/publish/
+  - source: /
     destination: /var/www/test/
