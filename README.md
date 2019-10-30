@@ -91,3 +91,5 @@ You can run both the Web and WebRazorPages samples at the same time by running t
 You should be able to make requests to localhost:5106 and localhost:5107 once these commands complete.
 
 You can run just the Web or WebRazorPages application by using the instructions located in their respective `Dockerfile` files in the root of the projects. Again, run these commands from the root of the solution (where the .sln file is located).
+
+
